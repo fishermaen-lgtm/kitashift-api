@@ -1,0 +1,20 @@
+{
+  "PRO-2026-DEMO-TEST": {
+    "plan": "pro",
+    "email": "demo@test.de",
+    "validUntil": "2026-12-31",
+    "maxMA": 20,
+    "createdAt": "2026-03-29T00:00:00.000Z",
+    "source": "static",
+    "activatedAt": null
+  },
+  "TRG-2026-DEMO-TEST": {
+    "plan": "traeger",
+    "email": "demo@test.de",
+    "validUntil": "2026-12-31",
+    "maxMA": 999,
+    "createdAt": "2026-03-29T00:00:00.000Z",
+    "source": "static",
+    "activatedAt": null
+  }
+}
