@@ -34,5 +34,14 @@
     "createdAt": "2026-03-29T20:08:04.195Z",
     "source": "manual",
     "activatedAt": null
+  },
+  "PRO-2026-G9TM-Z448": {
+    "plan": "pro",
+    "email": "fishermaen@web.de",
+    "validUntil": "2027-03-29",
+    "maxMA": 20,
+    "createdAt": "2026-03-29T20:08:52.472Z",
+    "source": "manual",
+    "activatedAt": null
   }
 }
