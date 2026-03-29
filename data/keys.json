@@ -16,5 +16,14 @@
     "createdAt": "2026-03-29T00:00:00.000Z",
     "source": "static",
     "activatedAt": null
+  },
+  "PRO-2026-BQNW-G4UF": {
+    "plan": "pro",
+    "email": "fishermaen@web.de",
+    "validUntil": "2027-03-29",
+    "maxMA": 20,
+    "createdAt": "2026-03-29T20:03:13.854Z",
+    "source": "manual",
+    "activatedAt": null
   }
 }
